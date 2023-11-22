@@ -8,7 +8,7 @@ This repository is used as a submodule for SodaSim and can also be compiled as a
 * _Lidar.hpp_ - generic LiDAR message (sends via UDP)
 * _Radar.hpp_ - generic radar message (sends via UDP)
 * _Ultrasonic.hpp_ - generic ultrasonic message (sends via UDP)
-* _OXTS.hpp_ - GNSS/IMU message (sends via UDP). This is original NCOM protocol from OXTS (See: https://support.oxts.com/hc/en-us/articles/115002163985-Decoding-OxTS-navigation-outputs)
+* _OXTS.hpp_ - GNSS/IMU message (sends via UDP). This is original NCOM protocol from [OXTS](https://support.oxts.com/hc/en-us/articles/115002163985-Decoding-OxTS-navigation-outputs)
 * _VehicleState.hpp_ - generic vehicle state message (sends via UDP)
 
 ## Usage example (for Lidar.hpp, Radar.hpp, Ultrasonic.hpp)
