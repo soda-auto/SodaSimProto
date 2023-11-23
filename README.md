@@ -39,7 +39,7 @@ if (!stream_in )
 ```
 
 ## Contact
-Please feel free to provide feedback or ask questions by creating a Github issue. For inquiries about collaboration, please email us at sim@soda.com.
+Please feel free to provide feedback or ask questions by creating a Github issue. For inquiries about collaboration, please email us at sim@soda.auto.
 
 ## Copyright and License
 Copyright © 2023 SODA.AUTO UK LTD. ALL RIGHTS RESERVED.  
